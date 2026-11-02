@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Money Coach 💰
 
 A personal finance tracking MVP built with Streamlit, SQLite, Pandas and Plotly.
@@ -23,3 +24,7 @@ Transactions are stored in `money_coach.db` beside the app. Do not commit this f
 
 ## Disclaimer
 For personal tracking and educational purposes only. Not financial, tax or investment advice.
+=======
+# AI-Money-Coach
+A personal finance tracker and AI-powered money coach built with Python, Streamlit and SQLite.
+>>>>>>> 4f80e65bd491ff385266576e918be6f93b8d5a1e
