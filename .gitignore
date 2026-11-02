@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Local database files
+money_coach.db
+money_coach_backup.db
